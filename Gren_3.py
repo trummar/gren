@@ -2,7 +2,7 @@ from turtle import *
 color('red', 'yellow')
 begin_fill()
 while True:
-    forward(200)
+    forward(190)
     left(170)
     if abs(pos()) < 1:
         break
